@@ -9,5 +9,6 @@ This Sketch project was completed using HTML, Javascript DOM, and CSS with follo
 # How to run
 - Fork this repository, and clone it onto your computer.
 - Drag and drop the index.html file onto your browser.
+- Or https://aseank.github.io/sketch/
 
 <img src="sketch.gif" width='720' height='720'>
